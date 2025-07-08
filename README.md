@@ -1,4 +1,4 @@
-# jen_projects
+# shared_projects
 miscellaneous projects
 
 ## project index
